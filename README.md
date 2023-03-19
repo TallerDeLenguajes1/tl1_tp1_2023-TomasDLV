@@ -12,3 +12,7 @@
     - Todos los archivos con una extensión específica: *.extension
     - Todos los archivos dentro de una carpeta específica: folder/**
     - Ignorar una carpeta, pero no sus subcarpetas: folder/
+
+3)
+    g)Los apartados del punto anterior son iguales ya que La direccion de memoria que almacena el puntero es la direccion de memoria de la variable que se quiere apuntar.
+      En el punto 4 obtengo la direccion del espacio de memoria reservado para la variable puntero punt. No es igual a los anteriores, ya que la direccion del puntero es la direccion del espacio de memoria de la variable puntero donde dentro de esa memoria se encuentra contenida la direccion de memoria de la variable, por lo tanto no son lo mismo.
